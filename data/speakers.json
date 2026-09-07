@@ -15,9 +15,9 @@
   },
   {
     "id": 3,
-    "image": "/speakers/no-face.jpg",
-    "name": "Coming Soon!",
-    "designation": [""],
-    "linkedinUrl": ""
+    "image": "/speakers/srishti.jpg",
+    "name": "Srishti Majumder",
+    "designation": ["Functional Consultant @ Accenture", "Ex-System Engineer @ TCS"],
+    "linkedinUrl": "https://www.linkedin.com/in/srishti-majumder/"
   }
 ]
